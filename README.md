@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehan Rajapaksha</h1>
 <h3 align="center">A passionate IT Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanx231&label=Profile%20views&color=0e75b6&style=flat" alt="shehanx231" /> </p>
+
 - 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **PHP/Java/React/C#**
 
-- 📫 How to reach me **rashmikashehan231@gmail.com**
-
 - ⚡ Fun fact **Call me as SHEHAN**
-
 
 <p align="left">
 </p>
