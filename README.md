@@ -63,15 +63,7 @@ Software Engineering Undergraduate | Full Stack Developer | UI Enthusiast
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehanx231&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanx231&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -83,11 +75,7 @@ Software Engineering Undergraduate | Full Stack Developer | UI Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shehanx231&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
