@@ -18,7 +18,7 @@ Software Engineering Undergraduate | Full Stack Developer | UI Enthusiast
 - 🚀 Interested in **Web Applications, UI/UX, and Software Engineering**
 - 💬 Ask me about **Java, PHP, React, Next.js, TypeScript, C#, MySQL**
 - 📫 Reach me at **rashmikashehan231@gmail.com**
-- ⚡ Fun fact: **Most of my free time goes into coding, movies, and horror stories.**
+- ⚡ Fun fact: **Most of my free time goes into coding, movies, and books.**
 
 ---
 
